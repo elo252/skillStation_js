@@ -42,11 +42,5 @@
 
 // test2()
 
-// function test1(){
-//     const response = fetch(api);
-//     const data = response;
-//     console.log(data);
-// }
 
-// test1()
 
